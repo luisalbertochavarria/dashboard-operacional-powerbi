@@ -1,0 +1,13 @@
+# Datos y documentos contractuales (NUNCA versionar)
+data_pbip/
+respado/
+respaldo/
+*.csv
+*.pbix
+*.abf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
