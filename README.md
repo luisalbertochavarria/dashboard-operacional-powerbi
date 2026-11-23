@@ -99,6 +99,9 @@ Lo que sí se publica es el modelo analítico: la estructura de datos, las 122 m
 documentadas en `medidas_dax.md` y las decisiones de diseño. Las medidas referencian los
 parámetros por su clave simbólica, no por su valor.
 
+La réplica en Python y sus datos sintéticos son una obra independiente, creada para demostrar el
+enfoque analítico sin reproducir información de terceros.
+
 ## Contenido del repositorio
 
 | Archivo | Descripción |
