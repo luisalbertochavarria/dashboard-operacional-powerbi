@@ -19,3 +19,4 @@ venv/
 pub.log
 publicar_replica.py
 verificar_replica.py
+limpiar_aux.py
