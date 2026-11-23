@@ -6,6 +6,17 @@ flota requerida, ingresos teóricos, indicadores de calidad y sensibilidad frent
 
 Desarrollo propio (proyecto personal, autodidacta).
 
+## Demostración interactiva
+
+**https://luisalbertochavarria.github.io/dashboard-operacional-powerbi/**
+
+Réplica del modelo analítico en Python y Plotly, navegable en el navegador sin instalar nada.
+Incluye seis vistas: ingreso por tipo de día, composición del ingreso, expediciones por hora,
+kilómetros por terminal, indicadores de calidad contra su umbral e impacto económico por indicador.
+
+Todos los datos son **sintéticos**: servicios, terminales, precios e indicadores son ficticios y no
+corresponden a ninguna concesión real. Se generan con `replicar_dashboard.py`.
+
 ## Contexto
 
 En una concesión de transporte público, el operador debe demostrar mes a mes el cumplimiento de

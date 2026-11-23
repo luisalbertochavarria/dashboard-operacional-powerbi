@@ -1,0 +1,6 @@
+parametro,valor
+PPT (precio por pasajero),150.0
+PKS (precio por km),1200.0
+IPK (pasajeros por km),1.8
+Tope de descuento,0.065
+Tope de premio,0.03

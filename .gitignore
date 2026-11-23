@@ -6,6 +6,9 @@ respaldo/
 *.pbix
 *.abf
 
+# Excepcion: los datos sinteticos de la demostracion SI se publican
+!datos_sinteticos/*.csv
+
 # Python
 __pycache__/
 *.py[cod]

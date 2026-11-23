@@ -1,0 +1,7 @@
+indicador,descripcion,umbral,simulado
+ICF,Cumplimiento de frecuencia,0.975,0.981
+ICP,Cumplimiento de puntualidad,0.95,0.943
+ICFP,Cumplimiento de programación,0.98,0.988
+IE,Expediciones efectivas,0.97,0.974
+IP,Puntualidad de salidas,0.96,0.951
+ICA,Calidad de atención,0.94,0.938
